@@ -1,5 +1,0 @@
-gh auth login ~ login
-gh config set editor nano
-gh auth logout
-gh repo create
-
